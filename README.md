@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil💙
 
-<!--
-**Aleatoryaa/Aleatoryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ O meu nome é Karoline Oliveira
 
-Here are some ideas to get you started:
+- Estou etudando no [alura](https://www.alura.com.br)
+- Estou me deenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+
+00001117944049SP@al.educacao.gov.br
+
+@_oliveirasouza_23
+
+![](https://media1.tenor.com/m/C9EatUCfQHQAAAAC/luffy-one-piece.gif)
